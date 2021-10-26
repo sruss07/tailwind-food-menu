@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-food-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sruss07/tailwind-food-menu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sruss07/tailwind-food-menu/issues"
+  },
+  "homepage": "https://github.com/sruss07/tailwind-food-menu#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.17"
+  }
+}
